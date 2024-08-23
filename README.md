@@ -1,4 +1,4 @@
-# 안녕하세요 :wave:	
+ # 안녕하세요 :wave:	
 ![main](https://github.com/itsk1mlot/itsk1mlot/blob/main/assets/main.gif?raw=true)
 > **하이부가~** <sub><img src="https://github.com/itsk1mlot/itsk1mlot/blob/main/assets/happybuga.png?raw=true" width=20 height=20 /></sub>
 
@@ -7,7 +7,7 @@
 
 ## :iphone: Contact
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mxPnHvb3Zp)
-[!![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC58hTsSisBQfjJVAPaJZizw)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC58hTsSisBQfjJVAPaJZizw)
 
 
 ## :triangular_flag_on_post: Languages & Tools
