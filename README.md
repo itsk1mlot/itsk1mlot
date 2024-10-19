@@ -3,7 +3,7 @@
 > **하이부가~** <sub><img src="https://github.com/itsk1mlot/itsk1mlot/blob/main/assets/happybuga.png?raw=true" width=20 height=20 /></sub>
 
 ## :office: Organizations
-> [@ITSK1MLOT](https://github.com/itsk1mlot) [@Lucy-Studio](https://github.com/Lucy-Studio)
+> [@ITSK1MLOT](https://github.com/itsk1mlot) [@Lucy-Studio](https://github.com/Lucy-Studio) [@Lucy-Store](https://github.com/Lucy-Store)
 
 ## :iphone: Contact
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mxPnHvb3Zp)
