@@ -1,5 +1,5 @@
  # 안녕하세요 :wave:	
-![main](https://github.com/itsk1mlot/itsk1mlot/blob/main/assets/main.gif?raw=true)
+[![main](https://github.com/itsk1mlot/itsk1mlot/blob/main/assets/main.gif?raw=true)](https://github.com/itsk1mlot/itsk1mlot/blob/main/assets/main250417.gif?raw=true)
 > **하이부가~** <sub><img src="https://github.com/itsk1mlot/itsk1mlot/blob/main/assets/happybuga.png?raw=true" width=20 height=20 /></sub>
 
 ## :office: Organizations
