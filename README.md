@@ -3,12 +3,11 @@
 > **하이부가~** <sub><img src="https://github.com/itsk1mlot/itsk1mlot/blob/main/assets/happybuga.png?raw=true" width=20 height=20 /></sub>
 
 ## :office: Organizations
-> [@ITSK1MLOT](https://github.com/itsk1mlot) [@lucy5tudi0](https://github.com/lucy5tudi0) [@Lucy-Studio](https://github.com/Lucy-Studio) [@Lucy-Store](https://github.com/Lucy-Store) [@plugetmc](https://github.com/plugetmc) [@mcmorebetter](https://github.com/mcmorebetter)
+> [@ITSK1MLOT](https://github.com/itsk1mlot) [@lucy5tudi0](https://github.com/lucy5tudi0) [@plugetmc](https://github.com/plugetmc) [@mcmorebetter](https://github.com/mcmorebetter)
 
 ## :iphone: Contact
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mxPnHvb3Zp)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC58hTsSisBQfjJVAPaJZizw)
-
 
 ## :triangular_flag_on_post: Languages & Tools
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
